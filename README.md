@@ -1,2 +1,2 @@
 # String Manipulation
- This is a C program for Pointers.
+String Manipulation: Write a program that uses pointers to concatenate two strings.
